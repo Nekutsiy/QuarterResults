@@ -1,0 +1,15 @@
+/Users/denispopov/Documents/Geek Brains/quater results/programm/bin/Debug/net6.0/programm
+/Users/denispopov/Documents/Geek Brains/quater results/programm/bin/Debug/net6.0/programm.deps.json
+/Users/denispopov/Documents/Geek Brains/quater results/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/Users/denispopov/Documents/Geek Brains/quater results/programm/bin/Debug/net6.0/programm.dll
+/Users/denispopov/Documents/Geek Brains/quater results/programm/bin/Debug/net6.0/programm.pdb
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.dll
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/refint/programm.dll
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.pdb
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
+/Users/denispopov/Documents/Geek Brains/quater results/programm/obj/Debug/net6.0/ref/programm.dll
